@@ -1,12 +1,10 @@
 package sg.edu.np.practical2activity;
 
 public class User {
-    public String name;
-    public String desc;
-    public Integer id;
-    public boolean followed;
-
-    public User(){}
+    private String name;
+    private String desc;
+    private Integer id;
+    private boolean followed;
 
     public String getName() { return name; }
 
