@@ -24,7 +24,7 @@ jobs:
           cp app/src/main/res/layout/activity_main.xml testDirectory/test.xml
           cp testDirectory/Practice2Test.java app/src/test/java/sg/edu/np/practical2activity/UserTest.java
           ls
-          cd app/src/test/java/sg/edu/np/mad/madpractical
+          cd app/src/test/java/sg/edu/np/practical2activity
           ls
           cd \
       - name: Setup go
